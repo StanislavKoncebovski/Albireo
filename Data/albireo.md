@@ -1,7 +1,7 @@
 # Source
 The data in albireo.csv are borrowed from http://www.astronexus.com/hyg 
 
-(originally callted there hygfull.csv). It contains all stars brighter than magnitude +9.0, or closer than 50 parsecs (87476 stars at the time of downloading.)
+(originally called there hygfull.csv). It contains all stars brighter than magnitude +9.0, or closer than 50 parsecs (87476 stars at the time of downloading.)
 
 # Contents
 
